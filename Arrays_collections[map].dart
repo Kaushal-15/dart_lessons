@@ -8,7 +8,7 @@ void main() {
   print(names[2]);
   var name = Map();
   name[1] = 'jack';
-  print(name[1]);b behalf of integers.
+  print(name[1]);//b behalf of integers.
   };
   
   var Names = {1:'jill',2: 'janson'};
