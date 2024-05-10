@@ -9,7 +9,7 @@ for(var n in names){
 print(n);
 names[1] =  'starc';   
 }
-var names2 = [...names]; //here both names and names2 are pointing at jack and jill. not copied from names to names2
+var names2 = [...names]; //here both names and names2 are printing  jack and jill. not copied from names to names2
 
 
 }
