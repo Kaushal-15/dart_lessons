@@ -1,6 +1,4 @@
-// Corrected code
 
-// Adjusted return type to void
 void mustGreaterThanZero(int val) {
   if (val <= 0) {
     throw Exception('value must be greater than zero');
@@ -10,16 +8,15 @@ void mustGreaterThanZero(int val) {
 void letVerifyTheValue(var val) {
   var valueVerification;
   try {
-    // Adjusted to call the function with a void return type
+     return type
     mustGreaterThanZero(val);
-    valueVerification = val; // If no exception, assign the value
+    valueVerification = val; 
   } catch (e) {
     print(e);
   } finally {
     if (valueVerification == null) {
       print('value is not accepted');
-    } else {
-      // Removed unused variable
+    } else {
       print('value verified: $valueVerification');
     }
   }
