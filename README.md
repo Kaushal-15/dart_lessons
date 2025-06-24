@@ -42,4 +42,4 @@ Found a Bug or want to contribute feel free to communicate with me links are bel
 ## 👨‍💻 Author
 
 **S. Kaushal Shanmugam**  
-📧 Email: [kaushalshanmugam.dev@gmail.com](mailto:kaushalshanmugam.dev@gmail.com)   
+📧 Email: [kaushalshanmugam15@gmail.com](mailto:kaushalshanmugam15@gmail.com)   
